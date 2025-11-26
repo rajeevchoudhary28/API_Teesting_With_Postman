@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/API Teesting With Postman.iml" filepath="$PROJECT_DIR$/API Teesting With Postman.iml" />
+      <module fileurl="file://$PROJECT_DIR$/API Testing With Postman.iml" filepath="$PROJECT_DIR$/API Testing With Postman.iml" />
     </modules>
   </component>
 </project>
