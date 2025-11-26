@@ -1,0 +1,27 @@
+Client–server architecture is a way of designing systems where two main parts work together:
+
+- Client → Asks for something
+(like your browser or mobile app)
+
+- Server → Provides what was asked
+(like a web server or database)
+
+How it works:
+
+- Client sends a request
+Example: You type google.com in your browser.
+
+- Server receives and processes the request
+It searches for the required data or runs some logic.
+
+- Server sends a response back
+Example: The webpage, data, or file.
+
+- Client displays the result
+You see the website or output on your screen.
+
+Why this architecture is useful:
+
+-Servers do heavy work (data processing, storage).
+-Clients stay light and fast.
+-Multiple clients can use the same server.
